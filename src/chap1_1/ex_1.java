@@ -1,3 +1,5 @@
+package chap1_1;
+
 import edu.princeton.cs.algs4.StdOut;
 
 public class ex_1 {
